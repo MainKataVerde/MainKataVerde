@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Oscar “MainKataVerde”
+# 👋 ¡Hola! Soy Oscar
 
 Soy un desarrollador Java con pasión por el **backend** y la **programación de videojuegos**. Me gusta resolver problemas con código limpio, diseñar lógicas eficientes y explorar las posibilidades de los juegos (y de la programación) como medio creativo. 🎮☕
 
@@ -6,7 +6,7 @@ Soy un desarrollador Java con pasión por el **backend** y la **programación de
 
 - **Lenguajes y tecnologias :** Java, Python y React
 - **Bases de datos & acceso a datos:** MongoDB, SQL
-- 
+  
 ## 🚀 Proyectos destacados
 
 Mas abajo podras ver mis proyectos mas relevantes, pero los mas grandes que he hecho o he participado son: [Maquina Virtual](https://github.com/MainKataVerde/Maquina-Virtual/tree/master) , [Riffrate](https://github.com/MainKataVerde/RiffRate/tree/testing) y [Pocket-Meme](https://github.com/MainKataVerde/Pocket-Meme/tree/testing)
